@@ -1,0 +1,1 @@
+quick(arr,0,size-1);
